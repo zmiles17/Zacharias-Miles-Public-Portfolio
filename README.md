@@ -20,4 +20,6 @@ Skilled in Full Stack Web Development using tools such as Spring Boot, Angular, 
 
 ## Personal Projects
 #### [Minimalist's Directory](https://zmiles17.github.io/Minimalists-Directory/)
+* Simple employee directory created using HTML, CSS, and JavaScript.
+
 
