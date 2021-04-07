@@ -51,10 +51,16 @@ Skilled in Full Stack Web Development using tools such as Spring Boot, Angular, 
 #### Talent Path
 ##### January 2021 - Present
 
+* Completed three month rigorous training in Java, Spring Boot, and Angular.
+* Presented capstone project to colleagues including sales, management, and potential clients.
+* Continued project work in a group setting using Agile techniques.
+
 ### Full Stack Software Engineer
 #### Cognizant
 ##### September 2019 - June 2020
 
+* Continued learning and upskilling through online platforms in languages such as Java 8, Vue.js, ES6.
+* Deployed onsite to Macy's where various processes and specific architecture was presented.
 
 
 
