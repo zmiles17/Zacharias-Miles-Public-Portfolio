@@ -43,6 +43,20 @@ Skilled in Full Stack Web Development using tools such as Spring Boot, Angular, 
 #### [Minimalist's Directory](https://zmiles17.github.io/Minimalists-Directory/)
 * Employee directory created using only HTML, CSS, and JavaScript.
 
+<hr>
+
+## Experience
+
+### Full Stack Software Engineer
+#### Talent Path
+##### January 2021 - Present
+
+### Full Stack Software Engineer
+#### Cognizant
+##### September 2019 - June 2020
+
+
+
 
 
 
