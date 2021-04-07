@@ -18,3 +18,5 @@ Skilled in Full Stack Web Development using tools such as Spring Boot, Angular, 
 
 <hr>
 
+## Personal Projects
+
