@@ -20,7 +20,7 @@ Skilled in Full Stack Web Development using tools such as Spring Boot, Angular, 
 
 ## Projects
 
-### [Link to repository](https://github.com/zmiles17/job-lister)
+### [Job Lister](https://github.com/zmiles17/job-lister)
 #### Owner and Creator
 * A job board application using Angular, Java, Spring Boot, JPA/Hibernate, Lombok, Maven, and PostgreSQL.
 * Unit testing done with JUnit5 and Mockito.
