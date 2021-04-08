@@ -32,7 +32,7 @@ Skilled in Full Stack Web Development using tools such as Spring Boot, Angular, 
 
 ### [Toasti](https://toasti-app.herokuapp.com/)
 #### UI Designer
-* Cocktail database application using Node.js, Express, jQuery, and MySQL.
+* Cocktail recipe application using Node.js, Express, jQuery, and MySQL.
 * Testing done with Mocha, Chai, Sinon.
 
 ### [To-Do List](https://sequelize-todolist.herokuapp.com/)
@@ -53,7 +53,7 @@ Skilled in Full Stack Web Development using tools such as Spring Boot, Angular, 
 
 * Completed three month rigorous training in Java, Spring Boot, and Angular.
 * Presented capstone project to colleagues including sales, management, and potential clients.
-* Continued project work in a group setting using Agile techniques.
+* Practiced group project work using Agile methodologies such as weekly sprints and daily standups.
 
 ### Full Stack Software Engineer
 #### Cognizant
