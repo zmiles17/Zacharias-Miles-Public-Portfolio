@@ -15,11 +15,9 @@
 ### Continued Education
 1. Northwestern University (2019)
 * Enterprise Java Programming
-* Bootcamp/Certification
 
 2. Georgia Institute of Technology (2018)
 * Full Stack Web Development
-* Bootcamp/Certification
 
 ### Summary
 Experienced Full Stack Software Engineer with a demonstrated history of working in an Agile environment.
