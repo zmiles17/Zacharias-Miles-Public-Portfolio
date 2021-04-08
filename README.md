@@ -8,15 +8,14 @@
 * **LinkedIn:** [https://www.linkedin.com/in/zachariasmiles/](https://www.linkedin.com/in/zachariasmiles/)
 
 ### Education
-* Georgia State University (2011-2017)
+1. Georgia State University (2011-2017)
 * Bachelor of Science (BS)
 * Exercise Science Major
 
-### Continued Education
-1. Northwestern University (2019)
+2. Northwestern University (2019)
 * Enterprise Java Programming
 
-2. Georgia Institute of Technology (2018)
+3. Georgia Institute of Technology (2018)
 * Full Stack Web Development
 
 ### Summary
