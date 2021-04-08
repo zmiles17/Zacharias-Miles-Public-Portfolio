@@ -13,11 +13,11 @@
 * Exercise Science Major
 
 ### Continued Education
-* Northwestern University (2019)
+1. Northwestern University (2019)
 * Enterprise Java Programming
 * Bootcamp/Certification
 
-* Georgia Institute of Technology (2018)
+2. Georgia Institute of Technology (2018)
 * Full Stack Web Development
 * Bootcamp/Certification
 
