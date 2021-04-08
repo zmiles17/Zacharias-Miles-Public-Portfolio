@@ -12,6 +12,15 @@
 * Bachelor of Science (BS)
 * Exercise Science Major
 
+### Continued Education
+* Northwestern University (2019)
+* Enterprise Java Programming
+* Bootcamp/Certification
+
+* Georgia Institute of Technology (2018)
+* Full Stack Web Development
+* Bootcamp/Certification
+
 ### Summary
 Experienced Full Stack Software Engineer with a demonstrated history of working in an Agile environment.
 Skilled in Full Stack Web Development using tools such as Spring Boot, Angular, Vue.js, React, JPA/Hibernate, REST, Microservices, and SQL Databases.
