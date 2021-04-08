@@ -51,7 +51,7 @@ Skilled in Full Stack Web Development using tools such as Spring Boot, Angular, 
 #### Talent Path
 ##### January 2021 - Present
 
-* Completed three month rigorous training in Java, Spring Boot, and Angular.
+* Completed three month training in Java, Spring Boot, and Angular.
 * Presented capstone project to colleagues including sales, management, and potential clients.
 * Practiced group project work using Agile methodologies such as weekly sprints and daily standups.
 
