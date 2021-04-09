@@ -6,7 +6,7 @@
 ### Contact Information
 * **Phone:** `678-294-9439`
 * **Email:** <a href="mailto:zmiles@talentpath.com">`zmiles@talentpath.com`</a>
-* **LinkedIn:** [https://www.linkedin.com/in/zachariasmiles/](https://www.linkedin.com/in/zachariasmiles/)
+* **LinkedIn:** [`zachariasmiles`](https://www.linkedin.com/in/zachariasmiles/)
 
 ### Education
 1. Georgia State University (2011-2017)
