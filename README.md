@@ -32,16 +32,6 @@ Skilled in Full Stack Web Development using tools such as Spring Boot, Angular, 
 * A job board application using Angular, Java, Spring Boot, JPA/Hibernate, Lombok, Maven, and PostgreSQL.
 * Unit testing done with JUnit5 and Mockito.
 
-### [Covid Tracker](https://peaceful-garden-61963.herokuapp.com/)
-#### Contributor
-* React application to show current and past statistics of Covid-19 with relevant articles displayed for further information.
-* Utilized axios to fetch data from a third party API and Chart.js to dynamically render the data based upon which state is selected.
-
-### [Toasti](https://toasti-app.herokuapp.com/)
-#### UI Designer
-* Cocktail recipe application using Node.js, Express, jQuery, and MySQL.
-* Testing done with Mocha, Chai, Sinon.
-
 ### [To-Do List](https://sequelize-todolist.herokuapp.com/)
 #### Owner and Creator
 * To-do list application built with Node.js, Express, Socket.io, MySQL, and deployed to Heroku.
