@@ -12,11 +12,11 @@
 * Bachelor of Science (BS)
 * Exercise Science Major
 
-2. Northwestern University (2019)
-* Enterprise Java Programming
-
-3. Georgia Institute of Technology (2018)
+2. Georgia Institute of Technology (2018)
 * Full Stack Web Development
+
+3. Northwestern University (2019)
+* Enterprise Java Programming
 
 ### Summary
 Experienced Full Stack Software Engineer with a demonstrated history of working in an Agile environment.
