@@ -32,7 +32,7 @@ Skilled in Full Stack Web Development using tools such as Spring Boot, Angular, 
 * Airbnb rental details page clone built with Vue.js, Java, Spring Boot, JPA/Hibernate, and MySQL.
 * Responsible for displaying the "More Places to Stay" section.
 
-![Find My Paradise]()
+![Find My Paradise](/assets/FMP.gif)
 
 ### [Job Lister](https://github.com/zmiles17/job-lister)
 #### Owner and Creator
