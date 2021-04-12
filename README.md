@@ -27,6 +27,13 @@ Skilled in Full Stack Web Development using tools such as Spring Boot, Angular, 
 
 ## Projects
 
+### [Find My Paradise](https://github.com/Smelser-Squad/FindMyParadise)
+#### Contributor
+* Airbnb rental details page clone built with Vue.js, Java, Spring Boot, JPA/Hibernate, and MySQL.
+* Responsible for displaying the "More Places to Stay" section.
+
+![Find My Paradise]()
+
 ### [Job Lister](https://github.com/zmiles17/job-lister)
 #### Owner and Creator
 * A job board application using Angular, Java, Spring Boot, JPA/Hibernate, Lombok, Maven, and PostgreSQL.
