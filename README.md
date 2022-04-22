@@ -5,7 +5,7 @@
 
 ### Contact Information
 * **Phone:** `678-294-9439`
-* **Email:** <a href="mailto:zmiles@talentpath.com">`zmiles@talentpath.com`</a>
+* **Email:** <a href="mailto:zachariasmiles@gmail.com">`zachariasmiles@gmail.com`</a>
 * **LinkedIn:** [`zachariasmiles`](https://www.linkedin.com/in/zachariasmiles/)
 
 ### Education
@@ -58,7 +58,7 @@ Skilled in Full Stack Web Development using tools such as Spring Boot, Angular, 
 ## Experience
 ### Full Stack Software Engineer
 #### Talent Path
-##### January 2021 - Present
+##### January 2021 - March 2022
 
 * Completed three month training in Java, Spring Boot, and Angular.
 * Presented capstone project to colleagues including sales, management, and potential clients.
