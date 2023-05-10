@@ -41,12 +41,6 @@ Skilled in Full Stack Web Development using tools such as Java/Spring Boot, .NET
 
 ![Job Lister](/assets/joblister.png)
 
-### [To-Do List](https://sequelize-todolist.herokuapp.com/)
-#### Owner and Creator
-* To-do list application built with Node.js, Express, Socket.io, MySQL, and deployed to Heroku.
-
-![To-Do List](/assets/todolist.png)
-
 ### [Minimalist's Directory](https://zmiles17.github.io/Minimalists-Directory/)
 #### Owner and Creator
 * Employee directory created using only HTML, CSS, and JavaScript.
