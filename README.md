@@ -62,8 +62,11 @@ Skilled in Full Stack Web Development using tools such as Java/Spring Boot, .NET
 #### Cognizant
 ##### September 2019 - June 2020
 
-* Continued learning and upskilling through online platforms in languages such as Java 8, Vue.js, ES6.
-* Deployed onsite to Macy's where various processes and specific architecture was presented.
+### Software Engineer
+#### Travelport
+##### May 2022 - Present
+
+
 
 
 
