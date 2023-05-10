@@ -51,20 +51,16 @@ Skilled in Full Stack Web Development using tools such as Java/Spring Boot, .NET
 
 ## Experience
 ### Software Engineer
+#### Travelport
+##### May 2022 - Present
+
+### Software Engineer
 #### Talent Path
 ##### January 2021 - March 2022
-
-* Completed three month training in Java, Spring Boot, and Angular.
-* Presented capstone project to colleagues including sales, management, and potential clients.
-* Practiced group project work using Agile methodologies such as weekly sprints and daily standups.
 
 ### Software Engineer
 #### Cognizant
 ##### September 2019 - June 2020
-
-### Software Engineer
-#### Travelport
-##### May 2022 - Present
 
 
 
