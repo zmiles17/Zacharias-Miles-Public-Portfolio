@@ -50,16 +50,16 @@ Skilled in Full Stack Web Development using tools such as Java/Spring Boot, .NET
 ---
 
 ## Experience
-### Software Engineer
-#### Travelport
+### Travelport
+#### Software Engineer
 ##### May 2022 - Present
 
-### Software Engineer
-#### Talent Path
+### Talent Path
+#### Software Engineer
 ##### January 2021 - March 2022
 
-### Software Engineer
-#### Cognizant
+### Cognizant
+#### Software Engineer
 ##### September 2019 - June 2020
 
 
