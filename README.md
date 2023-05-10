@@ -50,7 +50,7 @@ Skilled in Full Stack Web Development using tools such as Java/Spring Boot, .NET
 ---
 
 ## Experience
-### Full Stack Software Engineer
+### Software Engineer
 #### Talent Path
 ##### January 2021 - March 2022
 
@@ -58,7 +58,7 @@ Skilled in Full Stack Web Development using tools such as Java/Spring Boot, .NET
 * Presented capstone project to colleagues including sales, management, and potential clients.
 * Practiced group project work using Agile methodologies such as weekly sprints and daily standups.
 
-### Full Stack Software Engineer
+### Software Engineer
 #### Cognizant
 ##### September 2019 - June 2020
 
